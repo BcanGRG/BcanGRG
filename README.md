@@ -5,9 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bcangrg" alt="bcangrg" /></a> </p>
 
-- 🌱 I’m currently learning **Kotlin**
-
-- 💬 Ask me about **Flutter**
+- 💬 Ask me about **Kotlin-Jetpack Compose**
 
 - 📫 How to reach me **burockcan2309@gmail.com**
 
