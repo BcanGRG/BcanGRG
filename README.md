@@ -103,7 +103,7 @@ val burakCan = Developer(
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=BcanGRG&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+   <img src="https://streak-stats.demolab.com?user=BcanGRG&theme=tokyonight&hide_border=true&v=2" alt="GitHub streak" />
 </p>
 
 ---
