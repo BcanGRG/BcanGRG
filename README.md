@@ -27,6 +27,7 @@ val burakCan = Developer(
 - 🚀 Working daily with **Kotlin**, **Jetpack Compose**, Coroutines & Flow
 - 📱 Also shipping cross-platform UIs with **Flutter / Dart**
 - 💬 Ask me about **Kotlin, Jetpack Compose & modern Android architecture**
+- 🤖 Heavy user of **AI-assisted development** (Copilot, Claude, Cursor) in my daily workflow
 - 📫 Reach me at **burockcan2309@gmail.com**
 
 ---
@@ -55,6 +56,20 @@ val burakCan = Developer(
   <img src="https://img.shields.io/badge/Hilt-FF6F00?style=flat-square&logo=dagger&logoColor=white" />
   <img src="https://img.shields.io/badge/Retrofit-48B983?style=flat-square&logo=square&logoColor=white" />
   <img src="https://img.shields.io/badge/Room-8E24AA?style=flat-square&logo=sqlite&logoColor=white" />
+</p>
+
+**🤖 AI-Assisted Development**
+
+<p align="center">
+  <img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cursor-0A0A0A?style=for-the-badge&logo=cursor&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
+</p>
+
+<p align="center">
+  <sub>Using AI tooling day-to-day for faster iteration, refactoring and code review — not as a replacement for understanding the code.</sub>
 </p>
 
 ---
