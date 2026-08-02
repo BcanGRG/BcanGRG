@@ -26,8 +26,8 @@ val burakCan = Developer(
 - 🏢 Building production Android apps at **IBTECH (QNB)** — previously at **Beymen**
 - 🚀 Working daily with **Kotlin**, **Jetpack Compose**, Coroutines & Flow
 - 📱 Also shipping cross-platform UIs with **Flutter / Dart**
-- 💬 Ask me about **Kotlin, Jetpack Compose & modern Android architecture**
 - 🤖 Heavy user of **AI-assisted development** (Copilot, Claude, Cursor) in my daily workflow
+- 💬 Ask me about **Kotlin, Jetpack Compose & modern Android architecture**
 - 📫 Reach me at **burockcan2309@gmail.com**
 
 ---
@@ -76,23 +76,6 @@ val burakCan = Developer(
 
 ### 📌 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/BcanGRG/ComposeReaderApp">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BcanGRG&repo=ComposeReaderApp&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="ComposeReaderApp" />
-  </a>
-  <a href="https://github.com/BcanGRG/World-Times-App">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BcanGRG&repo=World-Times-App&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="World-Times-App" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/BcanGRG/Instagram_Clone">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BcanGRG&repo=Instagram_Clone&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Instagram_Clone" />
-  </a>
-  <a href="https://github.com/BcanGRG/Animated_Login_Registration">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BcanGRG&repo=Animated_Login_Registration&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Animated_Login_Registration" />
-  </a>
-</p>
-
 | Project | Stack | What it does |
 |---|---|---|
 | [**ComposeReaderApp**](https://github.com/BcanGRG/ComposeReaderApp) | Kotlin · Jetpack Compose | A book reader app built fully with Compose UI |
@@ -106,24 +89,33 @@ val burakCan = Developer(
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=BcanGRG&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BcanGRG&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" alt="Top languages" />
+  <img src="https://raw.githubusercontent.com/BcanGRG/BcanGRG/main/profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile details" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/BcanGRG/BcanGRG/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" height="200" alt="Repos per language" />
+  <img src="https://raw.githubusercontent.com/BcanGRG/BcanGRG/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" height="200" alt="Most commit language" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/BcanGRG/BcanGRG/main/profile-summary-card-output/tokyonight/3-stats.svg" height="200" alt="Stats" />
+  <img src="https://raw.githubusercontent.com/BcanGRG/BcanGRG/main/profile-summary-card-output/tokyonight/4-productive-time.svg" height="200" alt="Productive time" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=BcanGRG&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BcanGRG&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" />
-</p>
-
 ---
 
-### 🏆 Trophies
+### 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=BcanGRG&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="Trophies" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BcanGRG/BcanGRG/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BcanGRG/BcanGRG/output/github-snake.svg" />
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/BcanGRG/BcanGRG/output/github-snake.svg" />
+  </picture>
 </p>
 
 ---
